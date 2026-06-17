@@ -1,0 +1,14 @@
+# Visual Studio
+.vs/
+**/.vs/
+
+# .NET
+**/bin/
+**/obj/
+
+# React
+**/node_modules/
+
+# User files
+*.user
+*.suo
